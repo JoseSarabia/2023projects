@@ -12,6 +12,7 @@ function App(){
       <BlogList/>
       {/* <Footer/> */}
       <Footer/>
+      <h1>look</h1>
     </div>
   )
 }
