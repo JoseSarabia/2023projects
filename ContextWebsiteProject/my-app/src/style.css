@@ -1,0 +1,59 @@
+.topNav{
+    border-style: solid;
+    text-align: center;
+    padding: 14px 16px;
+    word-spacing: 10px;
+    padding: 30px;
+    margin-top: 0%;
+        
+}
+
+a{
+    font-size: 20px;
+    
+}
+
+.mainsection{
+    text-align: center;
+}
+
+.footersection{
+    text-align: center;
+}
+
+div, button{
+    padding: 5px 10px;
+    margin: 5px 0px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    text-align: center;
+    border-radius: 15px;
+    
+}
+
+
+.mainbody{
+    border-radius: 10px;
+    padding: 150px;
+    border-color: black;
+    border-style: solid;
+}
+
+.footersection{
+    border-style: solid;
+    border-radius: 50px;
+    padding: 10px;
+}
+
+
+.light-theme {
+    background-color: #cfcfcf;
+    color: #000;
+    padding: 50px;
+    
+}
+
+.dark-theme {
+    background-color: #3a3b3c;
+    color: #fff; 
+    padding: 50px;
+}
