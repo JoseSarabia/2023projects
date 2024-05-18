@@ -1,6 +1,6 @@
 import React from "react"
 import {useNavigate} from "react-router-dom"
-import fixingPipes from "./projects/photos/pexels-photo-6419128.jpg"
+import fixingPipes from "./projects/photos/istockphoto-644996994-612x612.jpg"
 
 import sink from "./projects/photos/pexels-photo-1080721.jpg"
 function Plumbing() {
@@ -38,6 +38,16 @@ function Plumbing() {
           Leave anything involving your gas lines to the professionals. If you think you have a leak, call 911 and evacuate your home. Our certified professionals
            can repair your gas lines once you’re safe and authorities have secured your home.
           </p>
+
+          <form> 
+            <label>Enter Your Name : 
+                <input type="text"/>
+            </label>
+
+            <label>Contact Number :
+                <input type= "number"/>
+            </label>
+          </form>
 
             <button onClick={() => navigate("/About")}>Go to Products page</button>
 

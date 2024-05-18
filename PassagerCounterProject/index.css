@@ -15,6 +15,11 @@ body {
     border: 3px solid black;
     border-radius: 10px;
     margin-top: 170px;
+    max-width: 800px;
+        
+          flex: 80%;
+        
+    flex: wrap;
 
     
 }
@@ -32,12 +37,12 @@ h2 {
 
 button {
     border: 1px solid black;
-
+    
     padding-top: 10px;
     padding-bottom: 10px;
     color: white;
     font-weight: bold;
-    width: 200px;
+    width: 100px;
     margin-bottom: 5px;
     border-radius: 5px;
 }
